@@ -1,5 +1,6 @@
 {
   "name": "fcc-mongo-mongoose-challenges",
+  "author": "Javier Vivas",
   "version": "0.0.1",
   "description": "A boilerplate project",
   "main": "server.js",
@@ -14,12 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
   },
   "keywords": [
     "node",
     "mongoose",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-mongomongoose#readme"
 }
